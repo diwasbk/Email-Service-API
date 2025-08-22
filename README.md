@@ -117,5 +117,3 @@ You can test this API endpoint using tools like **Postman**, **Thunder Client**,
 ## Author
 
 [Diwas Bk](https://github.com/diwasbk)
-
-```
